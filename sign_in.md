@@ -1,0 +1,1 @@
+1. User Log in to system with data entered while registration\n2. Email validation which is already retained in database\n3. Password matches to data entered while registration\n4. Redirection to Sign Up page
